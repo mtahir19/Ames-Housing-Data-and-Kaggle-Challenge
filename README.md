@@ -2,14 +2,14 @@
 
 ### Problem Statement
 
-While being a Data Scientist, I need to predict home sales prices. This may give potential customers a reliable estimate of the value of their property. After gathering required data, I plan to do some Exploratory Data Analysis (EDA), possible cleaning of the data and to deal with missing/null values. I will run different regression models to build a model that predicts the home sale price of home listings in Ames. I believe a better predictive model for home sale prices is crucial; the more business customers it can attract for sure. Therefore, more users means more revenue, a win for my company in such a technological environment.
+While being a Data Scientist, I predicted home sales prices. This may give potential customers a reliable estimate of the value of their property. After gathering required data, I plan to do understanding of data, some Exploratory Data Analysis (EDA), possible cleaning of the data and to deal with missing/null values. I will run different regression models to build a model that predicts the home sale price of home listings in Ames. I believe a better predictive model for home sale prices is crucial; the more business customers it can attract for sure. Therefore, more users means more revenue, a win for my company in such a technological environment.
 
 ---
 
 ## Executive Summary
-I conducted the analysis on the test and training datasets. Each dataset contains 81 columns or features and 2051 rows. Analyzing the test and training scores and data are available online.
+I conducted the analysis on the test and training datasets. Each dataset contains 81 columns or features and 2051 rows. I analyzed the test and training scores of online available data.
 
-I tried to include different regression models e.g., 1. Linear Regression; 2. Lasso Regression; 3. Ridge Regression; and 4. Elastic Net Regression.  Lasso, Ridge, and Elastic Net Regression are better performing in feature selection.  I did fun while regularizing, or scaling, tuning coefficients helped me to achieve the increasing the model's predictive accuracy.
+I tried to include different regression models e.g., 1. Linear Regression; 2. Lasso Regression; 3. Ridge Regression; and 4. Elastic Net Regression.  Lasso, Ridge, and Elastic Net Regression are better performing in feature selection.  I did fun while regularizing, or scaling, and finding best score in my models. Indeed, tuning coefficients helped me to achieve the increasing the model's predictive accuracy.
 
 When analyzing the datasets, few findings about scores and sales prices were gathered. Here are the most significant findings, focusing primarily on the data:
 Significant Correlation of House Prices
