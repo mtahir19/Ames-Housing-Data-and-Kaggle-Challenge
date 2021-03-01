@@ -9,7 +9,7 @@ While being a Data Scientist, I predicted home sales prices. This may give poten
 ## Executive Summary
 I conducted the analysis on the test and training datasets. Each dataset contains 81 columns or features and 2051 rows. I analyzed the test and training scores of online available data.
 
-I tried to include different regression models e.g., 1. Linear Regression; 2. Lasso Regression; 3. Ridge Regression; and 4. Elastic Net Regression.  Lasso, Ridge, and Elastic Net Regression are better performing in feature selection.  I did fun while regularizing, or scaling, and finding best score in my models. Indeed, tuning coefficients helped me to achieve the increasing the model's predictive accuracy.
+I tried to include different regression models e.g., 1. Linear Regression; 2. Lasso Regression; 3. Ridge Regression; and 4. Elastic Net Regression.  Lasso, Ridge, and Elastic Net Regression are better performing in feature selection.  I had fun while regularizing, or scaling, and finding the best score in my models. Indeed, tuning coefficients helped me to achieve the increasing the model's predictive accuracy.
 
 When analyzing the datasets, few findings about scores and sales prices were gathered. Here are the most significant findings, focusing primarily on the data:
 Significant Correlation of House Prices
@@ -54,4 +54,4 @@ According to the expectations, Ames housing price model made the most impact; ma
 
 ### Recommendations:
 
-Though experienced real estate agents have an idea what may impact a house's sale price, the model is more reliable in a sense to help them with a better estimate to their clients. I recommend it be used in making housing price estimates to clients. The real estate agent may be able to claim that the estimate is based on past data and not just the agent's individual intuition of home sales prices in market.
+Though experienced real estate agents have an idea what may impact a house's sale price, the model is more reliable in a sense to help them with a better estimate to their clients. I recommend it be used in making housing price estimates to clients. The real estate agent may be able to claim that the estimate is based on past data and not just the agent's individual intuition of home sales prices in the market.
